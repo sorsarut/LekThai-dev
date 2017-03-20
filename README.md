@@ -9,6 +9,3 @@
 * Script testing: `npm run js:test`
 * Script continuous testing: `npm run js:test_watch`
 
-##Comment
-* css แก้ได้ที่ style หน้า index.html
-* เพิ่มได้ตามใจ
